@@ -33,3 +33,7 @@
 [18] Shende, R. (2024). Heritage3DMtl: A Multi-modal UAV Dataset of Heritage Buildings for Digital Preservation (Doctoral dissertation, Concordia University).
 
 [19] Murali, V., Guy, R., Sertac, K., & Rus, D. (2024, October). Learning autonomous driving from aerial imagery. In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 3226-3233). IEEE.
+
+[20] Masquil, E., Marí, R., Ehret, T., Meinhardt-Llopis, E., Musé, P., \& Facciolo, G. (2025). S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 2383-2393).
+
+[21] Jiang, B., Huang, R., Zhao, Q., & Zhang, Y. (2025, April). Gaussian difference: find any change instance in 3D scenes. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE.
